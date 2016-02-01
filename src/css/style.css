@@ -37,6 +37,9 @@ a {
   color: var(--hcolor);
   text-decoration: none;
 }
+h1[id|="education"] + ul {
+  clear: left;
+}
 h1[id|="skills"] + ul {
   margin-bottom: 5em;
 }
@@ -44,15 +47,3 @@ h1[id|="skills"] + ul li {
   float: left;
   width: 10em;
 }
-/*
-h1[id|="skills"] + ul {
-  width: 20em;
-  list-style-type: none;
-  -moz-column-count: 3;
-  -moz-column-gap: 0.1em;
-  -webkit-column-count: 3;
-  -webkit-column-gap: 0.1em;
-  column-count: 3;
-  column-gap: 0.1em;
-}
-*/
