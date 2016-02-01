@@ -29,6 +29,7 @@ ${summary}
 # Education
 
 ## 2017  Bachelors of Science in Environmental Science and Management
+Concentration in Soils and Biogeochemistry  
 ${bs}
 
 ## 2015  Associate of Arts in Math and Science
