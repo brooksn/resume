@@ -39,7 +39,7 @@ a {
   color: var(--hcolor);
   text-decoration: none;
 }
-h1[id|="education"] + ul {
+h1#education {
   clear: left;
 }
 h1[id|="skills"] + ul {
