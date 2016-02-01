@@ -32,7 +32,9 @@ h1{
 p, ul, ol, li, div {
   font-size: 1em;
 }
-
+ul {
+  padding-left: 2em;
+}
 a {
   color: var(--hcolor);
   text-decoration: none;
