@@ -1,0 +1,9 @@
+# Ignore private information
+.env
+
+# Ignore the static HTML folder
+build/
+
+# Ignore node_modules and logs
+npm-debug.log
+node_modules/

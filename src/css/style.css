@@ -1,0 +1,58 @@
+:root {
+  --hcolor: #1A7FCB;
+  --bgcolor: white;
+  --fontcolor: RGBA(54, 35, 31, 1);
+  --hlcolor: RGBA(54, 35, 31, 0.5);
+}
+
+html {
+  width: 90%;
+}
+
+@media only screen and (min-device-width: 300px) and (max-device-width: 480px) {
+  html {
+    width: 100%;
+  }
+}
+
+body {
+  background-color: var(--bgcolor);
+  color: var(--fontcolor);
+  font-family: Sans-Serif;
+  font-size: 62.5%;
+}
+
+h1{
+  color: var(--hcolor);
+  width: 90%;
+  border-bottom: 4px solid var(--hlcolor);
+  font-size: 2em;
+}
+
+p, ul, ol, li, div {
+  font-size: 1em;
+}
+
+a {
+  color: var(--hcolor);
+  text-decoration: none;
+}
+h1[id|="skills"] + ul {
+  margin-bottom: 5em;
+}
+h1[id|="skills"] + ul li {
+  float: left;
+  width: 10em;
+}
+/*
+h1[id|="skills"] + ul {
+  width: 20em;
+  list-style-type: none;
+  -moz-column-count: 3;
+  -moz-column-gap: 0.1em;
+  -webkit-column-count: 3;
+  -webkit-column-gap: 0.1em;
+  column-count: 3;
+  column-gap: 0.1em;
+}
+*/
