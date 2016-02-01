@@ -26,6 +26,12 @@ h1{
   color: var(--hcolor);
   width: 90%;
   border-bottom: 4px solid var(--hlcolor);
+  font-size: 1.6em;
+}
+h2 {
+  font-size: 1.3em;
+}
+h1#brooks-newberry {
   font-size: 2em;
 }
 
