@@ -26,7 +26,7 @@ Metalsmith(__dirname)
       if(file.substr(-3)==='.md') {
         var text = files[file].contents.toString();
         for(r in replacements) {
-          text = text.replace('${'+ r +'}', replacements[r]);
+          text = text.replace('${'+ r +'}', replacements[r].replace(/['"]+/g, ''));
         }
         files[file].contents = new Buffer(text);
       }
