@@ -1,4 +1,5 @@
-require('dotenv').load();
+try { require('dotenv').load(); }
+catch(e) { console.log(e); }
 var Metalsmith = require('metalsmith');
 var myth = require('metalsmith-myth');
 var markdown = require('metalsmith-markdown');
