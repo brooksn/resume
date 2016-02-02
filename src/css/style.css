@@ -6,7 +6,7 @@
 }
 
 html {
-  width: 90%;
+  width: 100%;
 }
 
 @media only screen and (min-device-width: 300px) and (max-device-width: 480px) {
@@ -26,13 +26,25 @@ h1{
   color: var(--hcolor);
   width: 90%;
   border-bottom: 4px solid var(--hlcolor);
-  font-size: 1.6em;
+  font-size: 1.5em;
 }
 h2 {
-  font-size: 1.3em;
+  font-size: 1.2em;
 }
 h1#brooks-newberry {
   font-size: 2em;
+  border-bottom: none;
+  margin-bottom: -0.5em;
+}
+h1#brooks-newberry + p {
+  max-width: 30em;
+  height: 3.8em;
+  -moz-column-count: 2;
+  -moz-column-gap: 0px;
+  -webkit-column-count: 2;
+  -webkit-column-gap: 0px;
+  column-count: 2;
+  column-gap: 0px;
 }
 
 p, ul, ol, li, div {

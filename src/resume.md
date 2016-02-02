@@ -13,26 +13,24 @@ ${summary}
 
 - Node.js
 - ES2015
-- HTML
-- CSS
+- HTML + CSS
 - PHP
 - Swift
 - Git
 - SQL
 - Postgres
-- react.js
-- flux pattern
+- react + flux
 - Wordpress
 - ArcMap
 - Mapbox
 
 # Education
 
-## 2017  Bachelors of Science in Environmental Science and Management
+## Bachelor of Science in Environmental Science and Management (2017)
 Concentration in Soils and Biogeochemistry  
 ${bs}
 
-## 2015  Associate of Arts in Math and Science
+## Associate of Arts in Math and Science (2015)
 ${aa}
 
 # Work Experience
@@ -43,13 +41,18 @@ ${aa}
 
 I am independently designing and building a web-based visualization of soil sites in the Sierra Nevada to aid research of water banking and drought resistance in relation to deep soil structure.
 
-- Using Docker, Git, and other unit testing and build tools for project consistency.
-- Using Node.js, Postgres and PostGIS, Leaflet.js, and javascript GIS libraries as an open-source and cross-platform alternative to desktop GIS applications.
+- Stack includes Docker, Git, and unit testing and build tools for project consistency.
+- Built on Node.js, Postgres and PostGIS, Leaflet.js, and javascript GIS libraries as a cross-platform alternative to desktop GIS applications.
 
-## NudgeSMS
+## NudgeSMS (Sacramento, CA)
 
-- Two-day project for the [GreenGov Challenge](http://www.govops.ca.gov/#14669)
-- 
+**2nd Place Entry**  (October 2015)
+
+This SMS-based server for delivering tailored energy-savings tips to offices won 2nd place at the [GreenGov Challenge](http://www.govops.ca.gov/#14669).
+
+- Evaluated the new California Open Data Portal for insights on meeting government sustainability goals.
+- Framed the project as tasks suited for the skills of the team and the limited time available.
+- Used Node.js, Postgres, Twilio, and other tools to build an SMS service.
 
 ## La Jolla YMCA (San Diego, CA)
 
@@ -58,10 +61,9 @@ I am independently designing and building a web-based visualization of soil site
 - Led weekly after-school enrichment classes for elementary school students.
 - Adapted Code.org curriculum for concept-based learning.
 - Accommodated classes with a mix of grade levels and available technology.
-- Communicated with parents about their children's activities and the goals of the program.
 
 ## Open Mobile Alliance (San Diego, CA)
-*[Open Mobile Alliance (OMA)](http://openmobilealliance.org) is a mobile standards development organization .*
+*[Open Mobile Alliance (OMA)](http://openmobilealliance.org) is a mobile standards development organization.*
 
 **Developer for Change Request Documentation Site** (August 2012 - December 2015)
 
@@ -74,8 +76,6 @@ I am independently designing and building a web-based visualization of soil site
 - Communicated project requirements with a remote development team.
 - Defined goals and set deadlines for tasks with a remote development team.
 - Reviewed code for consistency with best practices for extending Wordpress.
-- Used the Wordpress theme and plugin APIs to extend its core functionality.
-
 
 # Volunteer Experience
 
@@ -84,8 +84,7 @@ I am independently designing and building a web-based visualization of soil site
 **Youth & Government Advisor** (August 2014 - February 2015)
 
 - Lead advisor for a group of 12 high school students.
-- Instructed students in reading and writing model legislation, and in public speaking.
-- Conferenced with parents and teachers about the educational goals of the program and care of their children when traveling to conferences.
+- Communicated with parents and teachers about the educational goals of the program and care of their children when traveling to conferences.
 - Planned conferences with associate advisors for ~150 students.
 
 ## La Jolla YMCA Youth & Government (San Diego, CA)
