@@ -36,15 +36,17 @@ h1#brooks-newberry {
   border-bottom: none;
   margin-bottom: -0.5em;
 }
-h1#brooks-newberry + p {
-  max-width: 30em;
-  height: 3.8em;
-  -moz-column-count: 2;
-  -moz-column-gap: 0px;
-  -webkit-column-count: 2;
-  -webkit-column-gap: 0px;
-  column-count: 2;
-  column-gap: 0px;
+
+h1#brooks-newberry + ul {
+  margin-bottom: 4.4em;
+}
+h1#brooks-newberry + ul li {
+  float: left;
+  width: 30em;
+}
+
+h1#summary {
+  clear: left;
 }
 
 p, ul, ol, li, div {
