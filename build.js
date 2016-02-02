@@ -1,5 +1,9 @@
-try { require('dotenv').load(); }
-catch(e) { console.log(e); }
+var fs = require('fs');
+try {
+  fs.syncStat('.env');
+  require('dotenv').load();
+}
+catch(e) { console.log('missing .env'); }
 var Metalsmith = require('metalsmith');
 var myth = require('metalsmith-myth');
 var markdown = require('metalsmith-markdown');
