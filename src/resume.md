@@ -56,7 +56,7 @@ This SMS-based server for delivering tailored energy-savings tips to offices won
 
 ## La Jolla YMCA (San Diego, CA)
 
-**Coding Instructor** (August 2015 - January 2016)
+**Coding Instructor** (August 2014 - January 2015)
 
 - Led weekly after-school enrichment classes for elementary school students.
 - Adapted Code.org curriculum for concept-based learning.
@@ -71,7 +71,7 @@ This SMS-based server for delivering tailored energy-savings tips to offices won
 - Evaluated the capabilities of Confluence wiki software with Atlassian's Documentation.
 - Extended a Confluence wiki using client-side javascript.
 
-**Developer for LwM2M Developer Portal** (August 2015 - February 2015)
+**Developer for LwM2M Developer Portal** (August 2014 - February 2015)
 
 - Communicated project requirements with a remote development team.
 - Defined goals and set deadlines for tasks with a remote development team.
