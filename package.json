@@ -24,6 +24,7 @@
   "homepage": "https://github.com/brooksn/resume#readme",
   "dependencies": {
     "dotenv": "^2.0.0",
+    "handlebars": "^4.0.5",
     "metalsmith": "^2.1.0",
     "metalsmith-debug": "0.0.2",
     "metalsmith-fingerprint": "^1.0.3",
