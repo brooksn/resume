@@ -1,6 +1,6 @@
 var fs = require('fs');
 try {
-  fs.syncStat('.env');
+  fs.statSync('.env');
   require('dotenv').load();
 }
 catch(e) { console.log('missing .env'); }
@@ -15,12 +15,12 @@ var ignore = require('metalsmith-ignore');
 Metalsmith(__dirname)
   .use(function(files, metalsmith, done){
     var replacements = {
-      phone: process.env.PHONE,
-      email: process.env.EMAIL,
-      summary: process.env.SUMMARY,
-      linkedin: process.env.LINKEDIN,
-      aa: process.env.AA,
-      bs: process.env.BS
+      phone: process.env.PHONE || '',
+      email: process.env.EMAIL || '',
+      summary: process.env.SUMMARY || '',
+      linkedin: process.env.LINKEDIN || '',
+      aa: process.env.AA || '',
+      bs: process.env.BS || ''
     };
     for(var file in files){
       if(file.substr(-3)==='.md') {

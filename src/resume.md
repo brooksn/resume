@@ -1,9 +1,9 @@
 # Brooks Newberry
-- ${phone}  
-- ${email}  
+- ${phone}
+- ${email}
 - https://brooks.is  
 - https://github.com/brooksn  
-- ${linkedin} 
+- ${linkedin}
 
 # Summary
 
