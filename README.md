@@ -4,7 +4,7 @@
 
 http://brooksn.github.io/resume
 
-Script to compile my public resume from markdown into multiple formats using. Requires wkhtmltopdf, node.js and npm installed.
+Script to compile my public resume from markdown into multiple formats using [metalsmith](http://metalsmith.io). Requires wkhtmltopdf, node.js and npm installed.
 
 Build instructions: 
 
