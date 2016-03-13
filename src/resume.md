@@ -19,7 +19,7 @@ ${summary}
 - Git
 - SQL
 - Postgres
-- react + flux
+- React + Flux
 - Wordpress
 - ArcMap
 - Mapbox
