@@ -27,7 +27,7 @@ ${summary}
 # Education
 
 ## Bachelor of Science in Environmental Science and Management (2017)
-Concentration in GIS  
+Concentration in Geospatial Information Science   
 ${bs}
 
 ## Associate of Arts in Math and Science (2015)
