@@ -33,6 +33,23 @@ ${bs}
 ## Associate of Arts in Math and Science (2015)
 ${aa}
 
+# Projects
+
+## Polling Accessibility, 2nd Place Entry (March - April 2016)
+
+Won 2nd place with a web application to deliver handicap accessibility information about polling places in Sacramento County for the [Hack4Sac Competition](http://hack4sac.saccounty.net).
+
+- Parsed building surveys and voter data to create easy-to-read accessibility stories which will enfranchise handicapped voters. 
+- Used React.js to build a responsive and accessible resource for users.
+
+## NudgeSMS, 2nd Place Entry (October 2015)
+
+Won 2nd place with an SMS-based server for delivering tailored energy-savings tips to offices for the [GreenGov Challenge](http://www.govops.ca.gov/#14669).
+
+- Evaluated the new California Open Data Portal for insights on meeting government sustainability goals.
+- Framed the project as tasks suited for the skills of the team and the limited time available.
+- Used Node.js, Postgres, Twilio, and other tools to build an SMS service.
+
 # Work Experience
 
 ## Soil Resource Lab (UC Davis)
@@ -41,18 +58,7 @@ ${aa}
 
 I am independently designing and building a web-based visualization of soil sites in the Sierra Nevada to aid research of water banking and drought resistance in relation to deep soil structure.
 
-- Stack includes Docker, Git, and unit testing and build tools for project consistency.
-- Built on Node.js, Postgres and PostGIS, Leaflet.js, and javascript GIS libraries as a cross-platform alternative to desktop GIS applications.
-
-## NudgeSMS (Sacramento, CA)
-
-**2nd Place Entry**  (October 2015)
-
-This SMS-based server for delivering tailored energy-savings tips to offices won 2nd place at the [GreenGov Challenge](http://www.govops.ca.gov/#14669).
-
-- Evaluated the new California Open Data Portal for insights on meeting government sustainability goals.
-- Framed the project as tasks suited for the skills of the team and the limited time available.
-- Used Node.js, Postgres, Twilio, and other tools to build an SMS service.
+- Built on Docker, Node.js, Postgres and PostGIS, Leaflet.js, and javascript GIS libraries as a cross-platform alternative to desktop GIS applications.
 
 ## La Jolla YMCA (San Diego, CA)
 
@@ -79,17 +85,10 @@ This SMS-based server for delivering tailored energy-savings tips to offices won
 
 # Volunteer Experience
 
-## Peninsula YMCA (San Diego, CA)
-
-**Youth & Government Advisor** (August 2014 - February 2015)
-
-- Lead advisor for a group of 12 high school students.
-- Communicated with parents and teachers about the educational goals of the program and care of their children when traveling to conferences.
-- Planned conferences with associate advisors for ~150 students.
-
-## La Jolla YMCA Youth & Government (San Diego, CA)
+## YMCA of San Diego County (San Diego, CA)
 
 **Youth & Government Advisor** (August 2013 - February 2015)
 
-- Assistant advisor for a group of 16 high school students.
-- Instructed students in reading and writing model legislation, and in public speaking.
+- Lead advisor for a group of 12 high school students.
+- Instructed students in reading and writing model legislation and in public speaking.
+- Assisted planning and traveled to conferences for ~150 students.
