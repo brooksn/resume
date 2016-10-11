@@ -9,43 +9,135 @@ html {
   width: 100%;
 }
 
-@media only screen and (min-device-width: 300px) and (max-device-width: 480px) {
-  html {
-    width: 100%;
+
+@media print {
+  html body {
+    font-size: 8.2pt;
   }
+  body a, li a, div a {
+    color: inherit;
+  }
+  body h1, body #contact-header-container {
+    margin: -2px;
+  }
+}
+
+#skills {
+  width: 30%;
+  float: right;
+  padding-left: 5px;
+  background-color: var(--bgcolor);
+}
+
+#skills-header {
+  margin-top: 0px;
+}
+#contact-header {
+  margin-top: 0px;
+}
+#contact-list-container ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+#contact-header-container, #contact-list-container {
+  margin-top: 0;
+  clear: right;
+  width: 30%;
+  float: right;
+  padding-left: 5px;
+  background-color: var(--bgcolor);
+}
+#skills-header-container {
+  margin-top: 15px;
+  clear: right;
+  width: 30%;
+  float: right;
+  padding-left: 5px;
+  background-color: var(--bgcolor);
+}
+.skill-chips {
+  clear: right;
+  width: 30%;
+  float: right;
+  padding-left: 5px;
+  padding-bottom: 8px;
+}
+
+.chip-sm {
+  margin-left: 1px;
+  margin-right: 1px;
+  margin-top: 3px;
+  -webkit-print-color-adjust: exact;
+}
+
+#brooks-newberry-hr + ul {
+  display: none;
+}
+.right-sidebar {
+  min-width: 19.6em;
 }
 
 body {
   background-color: var(--bgcolor);
   color: var(--fontcolor);
   font-family: Sans-Serif;
-  font-size: 62.5%;
+  font-size: 9.4pt;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+ul {
+  margin: 0;
+  margin-bottom: 10px;
+  padding: 0;
+}
+
+ul li {
+  list-style-position: outside;
+  margin: 0;
+  padding: 0;
 }
 
 h1{
   color: var(--hcolor);
-  width: 90%;
-  border-bottom: 4px solid var(--hlcolor);
-  font-size: 1.5em;
+  font-size: 1.8em;
+  margin: 0;
+}
+.h1hr {
+  border: 2px var(--hlcolor) solid;
+  height: 0;
 }
 h2 {
+  margin: 0;
+  margin-bottom: 5px;
+  font-size: 1.4em;
+}
+#brooks-newberry-hr {
+  border-color: white;
+}
+h1#brooks-newberry-header {
+  font-size: 2.1em;
+  border-bottom: none;
+  margin-top: 8px;
+}
+
+#brooks-newberry-hr + ul {
+  margin-left: -24px;
+}
+#brooks-newberry-hr + ul li {
+  display: inline-block;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+h3 {
+  font-size: 1.25em;
+}
+h4 {
   font-size: 1.2em;
 }
-h1#brooks-newberry {
-  font-size: 2em;
-  border-bottom: none;
-  margin-bottom: -0.5em;
-}
-
-h1#brooks-newberry + ul {
-  margin-bottom: 4.4em;
-}
-h1#brooks-newberry + ul li {
-  float: left;
-  width: 30em;
-}
-
-h1#summary {
+h1#summary-header {
   clear: left;
 }
 
@@ -59,13 +151,6 @@ a {
   color: var(--hcolor);
   text-decoration: none;
 }
-h1#education {
+h1#education-header {
   clear: left;
-}
-h1[id|="skills"] + ul {
-  margin-bottom: 5em;
-}
-h1[id|="skills"] + ul li {
-  float: left;
-  width: 10em;
 }

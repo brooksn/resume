@@ -1,3 +1,6 @@
+# This file is copied at build time
+src/resume.md
+
 # Ignore private information
 .env
 

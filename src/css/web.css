@@ -1,0 +1,23 @@
+@media (max-width: 500px) {
+  #brooks-newberry-hr + ul {
+    display: inherit;
+  }
+  .right-sidebar {
+    float: none;
+    min-width: 4em;
+  }
+  #contact-header-container, #contact-list-container {
+    display: none;
+    padding-left: 0px;
+  }
+  #skills-header-container {
+    float: none;
+    padding-left: 0px;
+    margin-top: 0px;
+    width: 100%;
+  }
+  .skill-chips {
+    float: none;
+    width: 100%;
+  }
+}

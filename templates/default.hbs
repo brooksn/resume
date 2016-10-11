@@ -1,6 +1,13 @@
 <html>
 <head>
+  <title>Brooks Newberry's Resume</title>
+  <meta name="viewport" content="initial-scale=1">
+  <link href="{{ fingerprint.[css/spectre.min.css] }}" rel="stylesheet" type="text/css" />
   <link href="{{ fingerprint.[css/style.css] }}" rel="stylesheet" type="text/css" />
+  {{#if webDest}}
+  <link href="{{ fingerprint.[css/web.css] }}" rel="stylesheet" type="text/css" />
+  {{/if}}
+  
 </head>
 <body>
 {{{contents}}}

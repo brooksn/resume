@@ -1,8 +1,8 @@
 # Brooks Newberry
 - ${phone}
 - ${email}
-- https://brooks.is  
-- https://github.com/brooksn  
+- https://brooks.is
+- https://github.com/brooksn
 - ${linkedin}
 
 # Summary
@@ -11,27 +11,27 @@ ${summary}
 
 # Skills
 
-- Node.js
-- ES2015
-- HTML + CSS
-- PHP
-- Swift
-- Git
-- SQL
-- Postgres
-- React + Flux
-- Wordpress
-- ArcMap
-- Mapbox
++ Node.js
++ ES2015
++ HTML + CSS
++ PHP
++ Swift
++ Git
++ SQL
++ Postgres
++ React + Flux
++ Wordpress
++ ArcGIS
++ Mapbox
 
 # Education
 
 ## Bachelor of Science in Environmental Science and Management (2017)
-Concentration in Geospatial Information Science   
-${bs}
+Minor in Geospatial Information Science   
+${bs_institution}
 
 ## Associate of Arts in Math and Science (2015)
-${aa}
+${aa_institution}
 
 # Projects
 
@@ -52,21 +52,14 @@ Won 2nd place with an SMS-based server for delivering tailored energy-savings ti
 
 # Work Experience
 
-## Soil Resource Lab (UC Davis)
+## California Department of Technology (Sacramento, CA)
 
-**Intern for SoilWeb** (January 2016 - Present)
+**Innovation branch student assistant** (May 2016 - Present)
 
-I am independently designing and building a web-based visualization of soil sites in the Sierra Nevada to aid research of water banking and drought resistance in relation to deep soil structure.
+Student assistant developing client projects, specializing in GIS and web technologies.
 
-- Built on Docker, Node.js, Postgres and PostGIS, Leaflet.js, and javascript GIS libraries as a cross-platform alternative to desktop GIS applications.
-
-## La Jolla YMCA (San Diego, CA)
-
-**Coding Instructor** (August 2014 - January 2015)
-
-- Led weekly after-school enrichment classes for elementary school students.
-- Adapted Code.org curriculum for concept-based learning.
-- Accommodated classes with a mix of grade levels and available technology.
+- Automated ArcMap and ArcGIS server to generate climate investment reports.
+- Developed a user interface for a geocoding utility for internal use.
 
 ## Open Mobile Alliance (San Diego, CA)
 *[Open Mobile Alliance (OMA)](http://openmobilealliance.org) is a mobile standards development organization.*
@@ -79,8 +72,7 @@ I am independently designing and building a web-based visualization of soil site
 
 **Developer for LwM2M Developer Portal** (August 2014 - February 2015)
 
-- Communicated project requirements with a remote development team.
-- Defined goals and set deadlines for tasks with a remote development team.
+- Communicated project requirements and managed deadlines with a remote development team.
 - Reviewed code for consistency with best practices for extending Wordpress.
 
 # Volunteer Experience
@@ -89,6 +81,5 @@ I am independently designing and building a web-based visualization of soil site
 
 **Youth & Government Advisor** (August 2013 - February 2015)
 
-- Lead advisor for a group of 12 high school students.
+- Lead advisor for a group of 12 high school students in small groups and at large conferences.
 - Instructed students in reading and writing model legislation and in public speaking.
-- Assisted planning and traveled to conferences for ~150 students.
