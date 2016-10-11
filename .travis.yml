@@ -5,7 +5,7 @@ env:
   - secure: "sTtU4N3qiNO2CSw1rGCRU1h2d/xCegREGAGQ1Rl5XgqvupBjy2UTFfOSTZStI/41A5+8fEZquyUmGf6/uqgT5Y8q2PZs8sG1b+2mzZRbnay+h5P4oCpPEyNfhdD7c1dF8UE/nReAYWV/WwsKoY+2M8B2jqE4V1if+jEAe+O+oFc8jblq+NNN7WNgkEGOOyK6jsoA2QxQLh++tMYHjErhUi9XrKpko6u2zRFVYiHnJ3vw2ghyC8tEusgxlbH+8Knu+PFYW4vmFbqiyY4gGf6/hy+owzN/AV9Pc+ruGwBG8R7YVgngkx8wBMkBkV156uzL9CI4ho1KyExZhgKYhtjcG+GuM8UCOaRGT+M6HVetrcsd1yE81R+b5X/HixNr+4q8eq+dBUg1mGrrkmaF831s8XYo3EXnwJDhMsee4CPMSTNdcNfbWD4ahXZmUmzxeI5p9r6Z24JN3pngAKNZ/JhB70741SPRVGaUeGGt3s19Cq0YxPkpJ2ymKCvB8AmcT4LQncSJTkqsM3SW0xYyG+qvbi/bwGgzMJr5zCLBwqRNjUIMC1Vc9AYcwOU39qiwYq5ZpMe2WqPscLH1dsSYuHNgvfRBHav/8/QWTMzcGJ7MJVuwE00/kq3mJ5lgladqC3wLwTMvgDye+omfuoABFEgZnkhg3eTljH1JLrZFSbSh3Q0="
 language: node_js
 node_js:
-  - "4.1"
+  - "6"
 before_script:
   - "export DISPLAY=:99.0"
   - "sh -e /etc/init.d/xvfb start"
