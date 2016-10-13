@@ -22,8 +22,7 @@ const markdownRenderer = new marked.Renderer()
 markdownRenderer.heading = (text, level) => {
   const {phone, email, linkedin} = replacements
   var esc = text.toLowerCase().replace(/[^\w]+/g, '-')
-  if (esc === 'skills') {
-    return `
+  const contact = `    
     <div class="right-sidebar" id="contact-header-container">
       <h${level} id="contact-header">Contact</h${level}>
       ${level === 1 ? '<hr class="h1hr" id="' + esc + '-hr"></hr>' : ''}
@@ -36,8 +35,11 @@ markdownRenderer.heading = (text, level) => {
         <li><a href="https://github.com/brooksn">https://github.com/brooksn</a></li>
         <li><a href="${linkedin}">${linkedin}</a></li>
       </ul>
-    </div>
-    <div class="right-sidebar" id="skills-header-container">
+    </div>`
+  if (esc === 'summary' || esc === 'skills') {
+    return `
+    ${esc === 'summary' ? contact : ''}
+    <div class="right-sidebar" id="${esc}-header-container">
       <h${level} id="${esc}-header">
         <a name="${esc}" class="anchor" href="#${esc}">
           <span class="header-link">

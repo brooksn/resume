@@ -47,27 +47,24 @@ html {
   margin: 0;
   padding: 0;
 }
-#contact-header-container, #contact-list-container {
+#contact-header-container, #contact-list-container, #summary-header-container + p {
   margin-top: 0;
   clear: right;
   width: 30%;
   float: right;
-  padding-left: 5px;
   background-color: var(--bgcolor);
 }
-#skills-header-container {
+#skills-header-container, #summary-header-container {
   margin-top: 15px;
   clear: right;
   width: 30%;
   float: right;
-  padding-left: 5px;
   background-color: var(--bgcolor);
 }
 .skill-chips {
   clear: right;
   width: 30%;
   float: right;
-  padding-left: 5px;
   padding-bottom: 8px;
 }
 
@@ -81,8 +78,9 @@ html {
 #brooks-newberry-hr + ul {
   display: none;
 }
-.right-sidebar {
+.right-sidebar, .right-sidebar + p {
   min-width: 19.6em;
+  padding-left: 25px;
 }
 
 body {
