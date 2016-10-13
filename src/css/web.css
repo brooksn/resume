@@ -10,14 +10,10 @@
     display: none;
     padding-left: 0px;
   }
-  #skills-header-container {
+  .skill-chips, #skills-header-container, #summary-header-container, #summary-header-container + p {
     float: none;
     padding-left: 0px;
     margin-top: 0px;
-    width: 100%;
-  }
-  .skill-chips {
-    float: none;
     width: 100%;
   }
 }
