@@ -77,16 +77,16 @@ Student assistant developing client projects, specializing in GIS and web techno
 
 # Volunteer Experience
 
-## YMCA of San Diego County (San Diego, CA)
-
-**Youth & Government Advisor** (August 2013 - February 2015)
-
-- Lead advisor for a group of 12 high school students in small groups and at large conferences.
-- Instructed students in reading and writing model legislation and in public speaking.
-
 ## Code for Sacramento (Sacramento, CA)
 *[Code for Sacramento](http://codeforsacramento.org) is Code for America brigade.*
 
 **Core Team Member** (March 2016 - Present)
 
 - Contributed code to development projects and participated in brigade guidance.
+
+## YMCA of San Diego County (San Diego, CA)
+
+**Youth & Government Advisor** (August 2013 - February 2015)
+
+- Lead advisor for a group of 12 high school students in small groups and at large conferences.
+- Instructed students in reading and writing model legislation and in public speaking.
