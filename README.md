@@ -46,7 +46,7 @@ Won 2nd place with a web application to deliver handicap accessibility informati
 
 Won 2nd place with an SMS-based server for delivering tailored energy-savings tips to offices for the [GreenGov Challenge](http://www.govops.ca.gov/#14669).
 
-- Evaluated the new California Open Data Portal for insights on meeting government sustainability goals.
+- Evaluated the new California Open Data Portal for insights into state sustainability goals.
 - Framed the project as tasks suited for the skills of the team and the limited time available.
 - Used Node.js, Postgres, Twilio, and other tools to build an SMS service.
 
@@ -83,3 +83,10 @@ Student assistant developing client projects, specializing in GIS and web techno
 
 - Lead advisor for a group of 12 high school students in small groups and at large conferences.
 - Instructed students in reading and writing model legislation and in public speaking.
+
+## Code for Sacramento (Sacramento, CA)
+*[Code for Sacramento](http://codeforsacramento.org) is Code for America brigade.*
+
+**Core Team Member** (March 2016 - Present)
+
+- Contributed code to development projects and participated in brigade guidance.
