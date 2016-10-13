@@ -94,8 +94,10 @@ body {
 
 ul {
   margin: 0;
+  margin-top: -4px;
   margin-bottom: 10px;
   padding: 0;
+  padding-left: 2em;
 }
 
 ul li {
@@ -106,11 +108,11 @@ ul li {
 
 h1{
   color: var(--hcolor);
-  font-size: 1.8em;
+  font-size: 1.7em;
   margin: 0;
 }
 .h1hr {
-  border: 2px var(--hlcolor) solid;
+  border: 1.2px var(--hlcolor) solid;
   height: 0;
 }
 h2 {
@@ -149,9 +151,7 @@ h1#summary-header {
 p, ul, ol, li, div {
   font-size: 1em;
 }
-ul {
-  padding-left: 2em;
-}
+
 a {
   color: var(--hcolor);
   text-decoration: none;
