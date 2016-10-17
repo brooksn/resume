@@ -36,7 +36,7 @@ markdownRenderer.heading = (text, level) => {
         <li><a href="${linkedin}">${linkedin}</a></li>
       </ul>
     </div>`
-  if (esc === 'summary' || esc === 'skills') {
+  if (esc === 'summary' || esc === 'skills' || esc === 'education') {
     return `
     ${esc === 'summary' ? contact : ''}
     <div class="right-sidebar" id="${esc}-header-container">

@@ -48,14 +48,19 @@ html {
   padding: 0;
   padding-left: 2px;
 }
-#contact-header-container, #contact-list-container, #summary-header-container + p {
+#contact-header-container, #contact-list-container, #summary-header-container + p,
+h2#bachelor-of-science-in-environmental-science-and-management-2017--header,
+h2#bachelor-of-science-in-environmental-science-and-management-2017--header + p,
+h2#associate-of-arts-in-math-and-science-2015--header,
+h2#associate-of-arts-in-math-and-science-2015--header + p
+{
   margin-top: 0;
   clear: right;
   width: 30%;
   float: right;
   background-color: var(--bgcolor);
 }
-#skills-header-container, #summary-header-container {
+div.right-sidebar{
   margin-top: 15px;
   clear: right;
   width: 30%;
@@ -79,9 +84,17 @@ html {
 #brooks-newberry-hr + ul {
   display: none;
 }
-.right-sidebar, .right-sidebar + p {
-  min-width: 22em;
+.right-sidebar, .right-sidebar + p,
+h2#bachelor-of-science-in-environmental-science-and-management-2017--header,
+h2#bachelor-of-science-in-environmental-science-and-management-2017--header + p,
+h2#associate-of-arts-in-math-and-science-2015--header,
+h2#associate-of-arts-in-math-and-science-2015--header + p {
   padding-left: 25px;
+  min-width: 204pt;
+}
+
+.right-sidebar, .right-sidebar + p {
+  
 }
 
 body {

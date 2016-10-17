@@ -2,15 +2,24 @@
   #brooks-newberry-hr + ul {
     display: inherit;
   }
-  .right-sidebar {
+  #education-header-container {
+    padding-left: 0px;
+  }
+  div.right-sidebar {
     float: none;
     min-width: 4em;
+    width: 100%;
   }
   #contact-header-container, #contact-list-container {
     display: none;
     padding-left: 0px;
   }
-  .skill-chips, #skills-header-container, #summary-header-container, #summary-header-container + p {
+  div.skill-chips, #skills-header-container, #summary-header-container, #summary-header-container + p,
+  h2#bachelor-of-science-in-environmental-science-and-management-2017--header,
+  h2#bachelor-of-science-in-environmental-science-and-management-2017--header + p,
+  h2#associate-of-arts-in-math-and-science-2015--header,
+  h2#associate-of-arts-in-math-and-science-2015--header + p
+  {
     float: none;
     padding-left: 0px;
     margin-top: 0px;
