@@ -62,7 +62,7 @@ Student assistant developing client projects, specializing in GIS and web techno
 - Developed a user interface for a geocoding utility for internal use.
 
 ## Open Mobile Alliance (San Diego, CA)
-*[Open Mobile Alliance (OMA)](http://openmobilealliance.org) is a mobile standards development organization.*
+[Open Mobile Alliance (OMA)](http://openmobilealliance.org) is a mobile standards development organization.
 
 **Developer for Change Request Documentation Site** (August 2012 - December 2015)
 
@@ -78,7 +78,7 @@ Student assistant developing client projects, specializing in GIS and web techno
 # Volunteer Experience
 
 ## Code for Sacramento (Sacramento, CA)
-*[Code for Sacramento](http://codeforsacramento.org) is Code for America brigade.*
+[Code for Sacramento](http://codeforsacramento.org) is Code for America brigade.
 
 **Core Team Member** (March 2016 - Present)
 
