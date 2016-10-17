@@ -1,13 +1,13 @@
 # Brooks Newberry
-- ${phone}
-- ${email}
+- 858.736.4649
+- mail@brooks.is
 - https://brooks.is
 - https://github.com/brooksn
-- ${linkedin}
+- https://www.linkedin.com/in/brooksnewberry
 
 # Summary
 
-${summary}
+I am interested in working with environmental information technology, especially creating, managing and interacting with geospatial data.
 
 # Skills
 
@@ -28,10 +28,10 @@ ${summary}
 
 ## Bachelor of Science in Environmental Science and Management (2017)
 Minor in Geospatial Information Science   
-${bs_institution}
+University of California, Davis
 
 ## Associate of Arts in Math and Science (2015)
-${aa_institution}
+MiraCosta College, San Diego, CA
 
 # Projects
 
