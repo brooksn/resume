@@ -52,7 +52,7 @@ Won 2nd place with an SMS-based server for delivering tailored energy-savings ti
 
 # Work Experience
 
-## California Department of Technology (Sacramento, CA)
+## State of California Department of Technology (Sacramento, CA)
 
 **Innovation branch student assistant** (May 2016 - Present)
 
