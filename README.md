@@ -14,6 +14,7 @@ I am interested in working with environmental information technology, especially
 + Node.js
 + ES2015
 + HTML + CSS
++ Python
 + PHP
 + Swift
 + Git
