@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Resume written in markdown, and compiled into several display formats",
   "main": "build.js",
+  "private": true,
   "scripts": {
     "prestart": "mkdir -p build",
     "start": "node build.js",
