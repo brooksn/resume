@@ -10,3 +10,4 @@ build/
 # Ignore node_modules and logs
 npm-debug.log
 node_modules/
+letter.md

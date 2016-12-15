@@ -7,7 +7,11 @@
 
 # Summary
 
-I am interested in working with environmental information technology, especially creating, managing and interacting with geospatial data.
+I am looking to start my development career with a team that values collaboration and continuous learning.  
+
+# Certifications
+
+AWS Certified Developer - Associate  
 
 # Skills
 

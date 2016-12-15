@@ -48,7 +48,7 @@ html {
   padding: 0;
   padding-left: 2px;
 }
-#contact-header-container, #contact-list-container, #summary-header-container + p,
+#contact-header-container, #contact-list-container, #certifications-header-container + p, #summary-header-container + p,
 h2#bachelor-of-science-in-environmental-science-and-management-2017--header,
 h2#bachelor-of-science-in-environmental-science-and-management-2017--header + p,
 h2#associate-of-arts-in-math-and-science-2015--header,
@@ -158,7 +158,7 @@ h3 {
 h4 {
   font-size: 1.2em;
 }
-h1#summary-header {
+h1#summary-header, h1#certifications-header {
   clear: left;
 }
 
