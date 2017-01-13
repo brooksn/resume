@@ -81,7 +81,7 @@ Lead developer of an SMS-based service delivering energy-savings tips tailored f
 
 **Core Team Member** (March 2016 - Present)
 
-- Contributed code to development projects and participated in brigade guidance.
+- Contributed code to development projects and participated in brigade guidance meetings.
 
 ## YMCA of San Diego County (San Diego, CA)
 
