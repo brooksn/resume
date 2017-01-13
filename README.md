@@ -5,19 +5,20 @@
 - https://github.com/brooksn
 - https://www.linkedin.com/in/brooksnewberry
 
-# Summary
+# Career Objective
 
-I am looking to start my development career with a team that values collaboration and continuous learning.  
+As a full stack developer, I like to work directly with clients, and to take ownership of products from the back-end to the front. I am looking to start my development career with a team that values collaboration and continuous learning.  
 
 # Certifications
 
 AWS Certified Developer - Associate  
 
-# Skills
+# Technical Skills
 
 + Node.js
 + ES2015
 + HTML + CSS
++ AWS
 + Python
 + PHP
 + Swift
@@ -27,63 +28,56 @@ AWS Certified Developer - Associate
 + React + Flux
 + Wordpress
 + ArcGIS
-+ Mapbox
++ Remote Sensing
 
 # Education
 
 ## Bachelor of Science in Environmental Science and Management (2017)
-Minor in Geospatial Information Science   
+Concentration in Geospatial Information Science   
 University of California, Davis
 
 ## Associate of Arts in Math and Science (2015)
 MiraCosta College, San Diego, CA
 
-# Projects
+# Open Source Projects
 
-## Polling Accessibility, 2nd Place Entry (March - April 2016)
+## Polling Accessibility (March - April 2016)
 
-Won 2nd place with a web application to deliver handicap accessibility information about polling places in Sacramento County for the [Hack4Sac Competition](http://hack4sac.saccounty.net).
+Lead developer of a web application to deliver handicap accessibility information about polling places in Sacramento County. Won 2nd prize at the [Hack4Sac Competition](http://hack4sac.saccounty.net).
 
-- Parsed building surveys and voter data to create easy-to-read accessibility stories which will enfranchise handicapped voters. 
-- Used React.js to build a responsive and accessible resource for users.
+- Parsed building surveys and electoral roll to create easy-to-read accessibility stories which will enfranchise voters with disabilities. 
+- Used React.js and Flux to build a responsive web interface.
 
-## NudgeSMS, 2nd Place Entry (October 2015)
+## NudgeSMS (October 2015)
 
-Won 2nd place with an SMS-based server for delivering tailored energy-savings tips to offices for the [GreenGov Challenge](http://www.govops.ca.gov/#14669).
+Lead developer of an SMS-based service delivering energy-savings tips tailored for individual offices. Won 2nd prize at the [GreenGov Challenge](http://www.govops.ca.gov/#14669).
 
-- Evaluated the new California Open Data Portal for insights into state sustainability goals.
-- Framed the project as tasks suited for the skills of the team and the limited time available.
+- Integrated a service with the new California Open Data Portal to generate insights into state sustainability goals.
 - Used Node.js, Postgres, Twilio, and other tools to build an SMS service.
 
 # Work Experience
 
 ## State of California Department of Technology (Sacramento, CA)
 
-**Innovation branch student assistant** (May 2016 - Present)
+**Innovation branch intern** (May 2016 - Present)
 
-Student assistant developing client projects, specializing in GIS and web technologies.
-
+- Developed client projects primarily using GIS and web technologies.
 - Automated ArcMap and ArcGIS server to generate climate investment reports.
-- Developed a user interface for a geocoding utility for internal use.
+- Developed an internal geocoding utility based on React.js and OpenLayers.
 
 ## Open Mobile Alliance (San Diego, CA)
 [Open Mobile Alliance (OMA)](http://openmobilealliance.org) is a mobile standards development organization.
 
 **Developer for Change Request Documentation Site** (August 2012 - December 2015)
 
-- Used the Wordpress theme and plugin APIs to extend its core functionality.
-- Evaluated the capabilities of Confluence wiki software with Atlassian's Documentation.
-- Extended a Confluence wiki using client-side javascript.
-
-**Developer for LwM2M Developer Portal** (August 2014 - February 2015)
-
 - Communicated project requirements and managed deadlines with a remote development team.
+- Used the Wordpress theme and plugin APIs to extend its core functionality.
 - Reviewed code for consistency with best practices for extending Wordpress.
+- Extended a Confluence wiki using client-side javascript.
 
 # Volunteer Experience
 
-## Code for Sacramento (Sacramento, CA)
-[Code for Sacramento](http://codeforsacramento.org) is Code for America brigade.
+## Code for Sacramento, [a Code for America Brigade](http://codeforsacramento.org) (Sacramento, CA)
 
 **Core Team Member** (March 2016 - Present)
 
