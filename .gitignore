@@ -11,3 +11,4 @@ build/
 npm-debug.log
 node_modules/
 letter.md
+.DS_STORE

@@ -29,7 +29,7 @@ const build = () => {
     pattern: '*.html'
   }))
   .use(pdf({
-    pattern: 'resume.html',
+    pattern: '*.html',
     printMediaType: true,
     pageSize: 'letter'
   }))

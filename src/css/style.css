@@ -101,7 +101,7 @@ h2#associate-of-arts-in-math-and-science-2015--header + p {
 body {
   background-color: var(--bgcolor);
   color: var(--fontcolor);
-  font-family: Sans-Serif;
+  font-family: -apple-system, BlinkMacSystemFont, ".SFNSText-Regular", "San Francisco", "SF UI Text", "SF UI Display", "Roboto", "Segoe UI", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", "DejaVu Sans", sans-serif;
   font-size: 9.4pt;
   padding-left: 5px;
   padding-right: 5px;
@@ -159,7 +159,7 @@ h3 {
 h4 {
   font-size: 1.2em;
 }
-h1#summary-header, h1#career-objective-header, h1#certifications-header {
+h1#summary-header, h1#career-objective-header, h1#technical-skills-header, h1#certifications-header {
   clear: left;
 }
 
